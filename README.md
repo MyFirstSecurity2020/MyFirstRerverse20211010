@@ -6,7 +6,9 @@
 校園資安深耕營Advanced Happy CyberSecurity Day
 
 課程名稱：基礎逆向工程
-課程說明：本次課程將從零開始帶領學員了解逆向工程、組合語言等相關的基礎，讓初學者更容易切入逆向工程。課程內容包含動態分析、靜態分析並且分析PE格式(Windows EXE)與Linux ELF格式。本課程將使用下列工具Ghidra、PEBear、x64dbg、gdb進行測試。
+課程說明：本次課程將從零開始帶領學員了解逆向工程、組合語言等相關的基礎，讓初學者更容易切入逆向工程。
+課程內容包含動態分析、靜態分析並且分析PE格式(Windows EXE)與Linux ELF格式。
+本課程將使用下列工具Ghidra、PEBear、x64dbg、gdb進行測試。
 
 課程大綱：
 -程式在底層是如何運行的
