@@ -109,7 +109,7 @@ https://forms.gle/YfmLBFR7UFvzcw5w8
 # CTF題目
 ```
 (1)完成指定題目共7題。
-(2)解題截止時間：10月14日(三) 17:00
+(2)解題截止時間：10月14日(四) 17:00
 (3)指定題目如下：
 01.EasyCTF_adder
 02.EasyCTF_hexable
