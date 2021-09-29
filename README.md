@@ -91,10 +91,10 @@ https://forms.gle/YfmLBFR7UFvzcw5w8
 |:----:|:----:|:------|:-------------|
 |09:00-10:00|預錄影片|X86組合語言(3)|https://youtu.be/dVPNZqnAF8w|
 |10:00-11:30|預錄影片|分析方法|https://youtu.be/argPc4oKrL8|
-|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/uup-aejb-noz|
+|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/okg-dwit-zoh|
 |13:30-14:30|預錄影片|ELF逆向工程|https://youtu.be/iZVxlnHB6TU|
 |14:30-15:30|預錄影片|逆向工程技巧|https://youtu.be/lFCb56ArybE|
-|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/zhm-qdff-ekz|
+|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/zbi-nmvq-uhg|
 
 
 
