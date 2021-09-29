@@ -48,7 +48,7 @@ one_gadget進行測試。
 (3)Ubuntu虛擬機：https://youtu.be/Kvy6lmSEMMo
 ```
 # 課程簡報下載
-Re:0 從零開始的逆向工程
+[Re:0 從零開始的逆向工程]
 (https://github.com/MyFirstSecurity2020/MyFirstRerverse20211009/blob/main/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B.pdf)
 
 
