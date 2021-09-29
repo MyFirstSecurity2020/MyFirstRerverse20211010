@@ -39,7 +39,7 @@
 (3)Ubuntu虛擬機：https://youtu.be/Kvy6lmSEMMo
 ```
 # 課程簡報下載
-[Re:從零開始開始的逆向工程](https://github.com/MyFirstSecurity2020/MyFirstRerverse20211009/blob/main/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B.pdf)
+[Re:從零開始的逆向工程](https://github.com/MyFirstSecurity2020/MyFirstRerverse20211009/blob/main/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B.pdf)
 
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
@@ -77,32 +77,22 @@ https://forms.gle/YfmLBFR7UFvzcw5w8
 |時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
 |09:00-10:00|預錄影片|工具安裝|https://youtu.be/lH7O9tUaH-U|
-|10:00-10:30|預錄影片|逆向工程簡介-程式產生過程|https://youtu.be/LwOIPeWVs-U |
+|10:00-10:30|預錄影片|逆向工程簡介-程式產生過程|https://youtu.be/LwOIPeWVs-U|
 |10:30-11:30|預錄影片|逆向工程簡介-程式運作過程|https://youtu.be/Qx7XqiljuNg|
-|11:30-12:00|直播|講師線上直播解講及QA|https://youtu.be/Qx7XqiljuNg|
-|13:00-14:00|預錄影片錄|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc |
-|--|預錄影片|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA |
-|14:00-15:30|預錄影片|(CH4-1)Bof - ret2code|https://youtu.be/Db_BQsv9MmA |
-|--|預錄影片|(CH4-2)Bof - ret2code|https://youtu.be/9wvb09WNwn0 |
-|--|預錄影片|(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
-|--|預錄影片|(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
-|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/tdb-wixc-ixs|
+|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/uup-aejb-noz|
+|13:30-14:30|預錄影片|X86組合語言(1)|https://youtu.be/lr11CFqmm7Y|
+|14:30-15:30|預錄影片|X86組合語言(2)|https://youtu.be/FWbN_4dj4g8|
+|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/zhm-qdff-ekz|
 
 # 10月10日(星期日)課程表與影片/直播連結
 |時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
-|09:00-10:30|預錄影片|(CH6-1)Bof - ret2libc|https://youtu.be/lR0-nQpX56c |
-|--|預錄影片|(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY |
-|10:30-11:30|預錄影片|(CH7-1)ROP|https://youtu.be/EsbUdf0_EY8 |
-|--|預錄影片|(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
-|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/byz-nusm-wqt |
-|13:00-14:30|預錄影片|(CH8-1)Format String|https://youtu.be/vfHs9kxh0_A|
-|--|預錄影片|(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4 |
-|--|預錄影片|(CH8-3)Format Stringc|https://youtu.be/-0dYnQtMjBU |
-|--|預錄影片|(CH8-4)Format Stringc|https://youtu.be/RGalgUT2VFM |
-|14:30-16:00|預錄影片|(CH9-1)Stack Migration|https://youtu.be/LibVsrE20R0 |
-|--|預錄影片|(CH9-2)Stack Migration|https://youtu.be/f7YMBK2MY84 |
-|16:00-16:30|直播|講師線上直播解講及QA|https://meet.google.com/jwf-gsjk-hdn |
+|09:00-10:00|預錄影片|X86組合語言(3)|https://youtu.be/dVPNZqnAF8w|
+|10:00-11:30|預錄影片|分析方法|https://youtu.be/argPc4oKrL8|
+|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/uup-aejb-noz|
+|13:30-14:30|預錄影片|ELF逆向工程|https://youtu.be/iZVxlnHB6TU|
+|14:30-15:30|預錄影片|逆向工程技巧|https://youtu.be/lFCb56ArybE|
+|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/zhm-qdff-ekz|
 
 
 
