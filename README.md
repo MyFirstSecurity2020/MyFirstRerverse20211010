@@ -1,5 +1,5 @@
 
-# 2021年10月09日-10日基礎逆向工程
+# 2021年10月10日-11日基礎逆向工程
 
 ```
 教育部先進資通安全實務人才培育計畫
@@ -66,14 +66,14 @@ https://forms.gle/YfmLBFR7UFvzcw5w8
 
 ```
 兩次簽到開放時間與表單連結如下：
-(1)10月09日(六) 09:00~10:30  https://forms.gle/6HPtTEMdfNuMERQz8
-(2)10月10日(日) 13:00~14:30  https://forms.gle/VGuhuEjinUvPSwVS8
+(1)10月10日(日) 09:00~10:30  https://forms.gle/6HPtTEMdfNuMERQz8
+(2)10月11日(一) 13:00~14:30  https://forms.gle/VGuhuEjinUvPSwVS8
 (3)將以時間截記為主，簽到時間結束表單將自行關閉。
 
 ```
 ##影片下架：10月14日17:00
 
-# 10月9日(星期六)課程表與影片/直播連結
+# 10月10日(星期日)課程表與影片/直播連結
 |時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
 |09:00-10:00|預錄影片|工具安裝|https://youtu.be/lH7O9tUaH-U|
@@ -84,7 +84,7 @@ https://forms.gle/YfmLBFR7UFvzcw5w8
 |14:30-15:30|預錄影片|X86組合語言(2)|https://youtu.be/FWbN_4dj4g8|
 |15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/zhm-qdff-ekz|
 
-# 10月10日(星期日)課程表與影片/直播連結
+# 10月11日(星期日)課程表與影片/直播連結
 |時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
 |09:00-10:00|預錄影片|X86組合語言(3)|https://youtu.be/dVPNZqnAF8w|
@@ -100,7 +100,7 @@ https://forms.gle/YfmLBFR7UFvzcw5w8
 # [證書核發](https://forms.gle/oyfB1JWYKg1rDYnS6)
 ```
 (1)證書於10月18日後掛號寄出
-(2)10月11日前務必填寫問卷：https://forms.gle/ZnDvmSFtTgKySL2N6
+(2)10月12日前務必填寫問卷：https://forms.gle/ZnDvmSFtTgKySL2N6
 (3)如對證書發送有任何異議者請於10月20日提出，逾時不侯，謝謝。
 ```
 
