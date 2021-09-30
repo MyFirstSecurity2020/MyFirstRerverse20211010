@@ -36,7 +36,7 @@
 # 環境安裝影片
 ```
 請依序安裝
-(1)虛擬機軟體VirtualBox：https://youtu.be/zJnpqilRe5M 
+(1)[虛擬機軟體VirtualBox](https://youtu.be/zJnpqilRe5M)
 (2)Win 10虛擬機：https://youtu.be/ZRHg0ugdL1Y 
 (3)Ubuntu虛擬機：https://youtu.be/Kvy6lmSEMMo
 ```
