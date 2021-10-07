@@ -53,10 +53,10 @@
 平台連結：https://140.110.112.213/
 ```
 
-# [Discord課程聊天室](https://discord.gg/zRZzxcKH)
+# [Discord課程聊天室](https://discord.gg/tujVVuwQ)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.gg/zRZzxcKH
+https://discord.gg/tujVVuwQ
 ```
 
 # [課程問題提問表單](https://forms.gle/YfmLBFR7UFvzcw5w8)
